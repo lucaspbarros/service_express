@@ -25,11 +25,34 @@ header ul{
     
 }
 
-section.conteudo{
-    padding-top:50px;
+footer ul {
+    list-style: none;
+    padding: 20px;
 }
 
-.status{
-    position:relative;top:25%
+footer ul li a {
+    color: black;
+}
 
+footer ul li a:hover {
+    color: black;
+    border-bottom:1px solid black;
+}
+
+
+.redesocial {
+    width: 50px;
+}
+
+@media screen and (max-width: 460px) {
+    #propag-1,
+    #propag-2 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+    #propag-2 {
+        display: none;
+    }
 }
