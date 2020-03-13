@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/cores.css">
     <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="css/fixos.css">
 </head>
 <body class="bg-cinza">
     <header class="text-center bg-light">
@@ -76,7 +77,7 @@
         </a>
       </div>
 
-      <section class="container conteudo">
+      <section class="container conteudo vantagens">
 
           <div class="row">
             
@@ -108,7 +109,7 @@
 
             </div>
 
-            <div class="col-md-6 col-12">
+            <div class="col-md-6 col-12 text-center">
 
               <img src="img/status.png" class="status">
               
