@@ -25,6 +25,17 @@ header ul{
     
 }
 
+section.conteudo{
+    padding-top:50px;
+
+}
+
+.status{
+    position:relative;
+    top:25%;
+
+}
+
 footer ul {
     list-style: none;
     padding: 20px;
